@@ -1,2 +1,2 @@
 # hse_ms
-HSE Mentor's Seminar (2024-2025)
+HSE Mentor's Seminar (2024-2027)
